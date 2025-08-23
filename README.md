@@ -2,8 +2,7 @@
 
 🚀 Welcome to my GitHub profile!
 
-I’m a passionate Mechanical Engineer with over 5 years of experience in mechanical design, manufacturing process optimization, and simulation. I'm deeply interested in automation, robotics, sustainability, and smart manufacturing technologies.
-
+Mechanical Engineer with a master’s degree and 5+ years of experience in CAD modeling, FEA, CFD, and Lean Manufacturing. Proven ability to lead engineering projects, implement preventive maintenance strategies, and perform Root Cause Failure Analysis (RCFA) to enhance equipment reliability and operational efficiency. Adept at combining technical expertise with hands-on field experience to deliver innovative and cost-effective engineering solutions.
 ---
 
 ## 🛠️ What I Post About:
