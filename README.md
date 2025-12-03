@@ -2,7 +2,7 @@
 
 🚀 Welcome to my GitHub profile!
 
-Mechanical Engineer with a master’s degree and 5+ years of experience in CAD modeling, FEA, CFD, and Lean Manufacturing. Proven ability to lead engineering projects, implement preventive maintenance strategies, and perform Root Cause Failure Analysis (RCFA) to enhance equipment reliability and operational efficiency. Adept at combining technical expertise with hands-on field experience to deliver innovative and cost-effective engineering solutions.
+Manufacturing Engineer with 4+ years of experience optimizing production processes and leading continuous improvement initiatives across medical equipment, electrical, and chemical manufacturing industries. Proven ability to deliver measurable gains in efficiency, quality, and cost reduction through Lean methodologies, data-driven decision-making, and innovative process strategies. Skilled in process validation, quality control, and regulatory compliance, with a strong track record of collaborating with engineering, maintenance, and production teams to ensure seamless operations. Proficient in Python, SQL, and Lean Six Sigma tools, and experienced in equipment selection, preventive maintenance, and safety/environmental compliance. Committed to driving operational excellence and delivering sustainable, high-impact results.
 ---
 
 ## 🛠️ What I Post About:
